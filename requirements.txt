@@ -1,0 +1,9 @@
+flask
+flask_cors
+openai
+langchain_openai
+langchain
+langchain_community
+ddgs
+bs4
+groq
